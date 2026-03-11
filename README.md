@@ -4,7 +4,7 @@
 # Recent Larger Projects
 [AI Agentic Team Claude Code CLI Harness](https://github.com/infocyde/simple_agentic_software_team) Python / Claude Code CLI / Javascript / HTML Agentic Code Harness that acts like a software development team to write software.
 
-[LangChain Agent with Web Scaper]() Python / LangGraph / ChatGPT 5-mini Agent with a multi link DuckDuckGo + trafilatura/Tavity web scaper
+[LangChain Agent with Web Scaper](https://github.com/infocyde/learning-basicagents) Python / LangGraph / ChatGPT 5-mini Agent with a multi link DuckDuckGo + trafilatura/Tavity web scaper
 
 # Recent Utilities
 
