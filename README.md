@@ -6,6 +6,8 @@
 
 [LangChain Agent with Web Scaper](https://github.com/infocyde/learning-basicagents) Python / LangGraph / ChatGPT 5-mini Agent with a multi link DuckDuckGo + trafilatura/Tavity web scaper
 
+[Video Creator](https://github.com/infocyde/AgenticVideoPipelineHumanInTheLoop01) All in one video creation agent.  Can do some end-to-end automation.  Using Claude Code or Claude CI a complete video production package including all elements, research, verification, monologue, voice over, explainers, b-roll, ai image generation, local or in the cloud rendering for many components.  
+
 # Recent Utilities
 
 - [OSINT X List Scraper](https://github.com/infocyde/x_list_scraper)
